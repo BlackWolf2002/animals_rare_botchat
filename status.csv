@@ -1,0 +1,10 @@
+﻿status_id,viet_tat,tinh_trang,dinh_nghia,full
+0,NE,Chưa đánh giá,Chưa được đánh giá theo các tiêu chuẩn của IUCN,not evaluted
+1,DD,Thiếu dữ liệu,Không đủ dữ liệu để đánh giá nguy cơ tuyệt chủng,data deficient
+2,LC,Ít quan tâm,Được đánh giá là có nguy cơ tuyệt chủng thấp nhất,least concern
+3,NT,Gần bị đe dọa,Có thể bị đe dọa trong tương lai gần,near threaten
+4,VU,Sắp nguy cấp,Có nguy cơ cao bị tuyệt chủng trong tự nhiên,vulnerable
+5,EN,Nguy cấp,Được đánh giá là có nguy cơ bị tuyệt chủng rất cao trong tự nhiên,endangered
+6,CR,Cực kỳ nguy cấp,Được đánh giá là đang ở mức độ nguy cấp nhất có nguy cơ tuyệt chủng,critically endangered
+7,EW,Tuyệt chủng ngoài tự nhiên,Chỉ còn tồn tại ngoài tự nhiên trong điều kiện nuôi nhốt,extinct in the wild
+8,EX,Tuyệt chủng,Không còn nghi ngờ gì về sự tuyệt chủng của loài này,extinct in the wild
